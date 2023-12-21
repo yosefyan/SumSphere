@@ -1,0 +1,11 @@
+.tShadow {
+  text-shadow: 0 0 1rem rgba(145, 142, 142, 0.418);
+}
+.gradientText {
+  background: -webkit-linear-gradient(
+    rgba(128, 0, 128, 0.842),
+    rgba(0, 255, 255, 0.911)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
