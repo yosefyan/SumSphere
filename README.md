@@ -12,7 +12,7 @@ SumSphere is a versatile calculator that simplifies expression calculations, des
 
 ## Getting Started
 
-1. Access SumSphere at [SumSphere](https://your-username.github.io/sumsphere).
+1. Access SumSphere at [SumSphere](https://yosefyan.github.io/SumSphere).
 
 2. Enter your expressions in the calculator.
 
